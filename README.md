@@ -2,7 +2,7 @@
 Simple vuejs local storage authentication
 1. clone and cd to the directory
 2. npm install
-2. npm run dev
+2. npm run serve
 3. open browser to localhost:8080
 
 # List of registered users to test login
