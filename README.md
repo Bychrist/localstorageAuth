@@ -6,6 +6,6 @@ Simple vuejs local storage authentication
 3. open browser to localhost:8080
 
 # List of registered users to test login
-email: admin@gmail.com password: admin
-email: mary@gmail.com password: maryin
-email: user@gmail.com password: user
+1. email: admin@gmail.com password: admin
+2. email: mary@gmail.com password: mary
+3. email: user@gmail.com password: user
